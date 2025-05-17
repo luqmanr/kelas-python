@@ -1,10 +1,12 @@
-# TITLE
+# **Program Print Dot Matrix di Python**
 
-```
-# = <h1></h1>
-## = <h2></h2>
-### = <h3></h3>
-#### = <h4></h4>
-```
+## Permasalahan
 
-<p>ini ada tulisan</p>
+saat ini di borma ada kasus dimana kita ingin mengirimkan email... dsb...
+
+contoh code yang telah dikerjakan
+
+```python
+x = 1+2
+print(x)
+```
