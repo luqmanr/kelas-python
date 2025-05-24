@@ -12,3 +12,5 @@ print(x)
 ```
 
 ## Ini adalah tulisan yang ditambahkan lewat github.com
+
+## yang ini saya tulis dari laptop
