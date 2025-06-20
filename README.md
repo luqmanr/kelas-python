@@ -13,5 +13,3 @@ print(x)
 
 ## Ini adalah tulisan yang ditambahkan lewat github.com
 
-## yang ini saya tulis dari laptop
-## ini saya update dari github.com, supaya terjadi perubahan barengan
